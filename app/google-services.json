@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215886545180",
+    "project_id": "lcfg-bank",
+    "storage_bucket": "lcfg-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215886545180:android:bcaa6017d73fb1bf607ad9",
+        "android_client_info": {
+          "package_name": "com.shivam.banking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215886545180-lk2j8bs66s1p8j7sgqjihtimpsesodob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.banking",
+            "certificate_hash": "382cbae50d767d76dfc891fcc93fa78d25c07624"
+          }
+        },
+        {
+          "client_id": "215886545180-kivv9fs379drtjsncu1hcte10jacsgkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2swVbC0phJj3Wm3Vo4q2P6rLCWCLAkV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215886545180-kivv9fs379drtjsncu1hcte10jacsgkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
